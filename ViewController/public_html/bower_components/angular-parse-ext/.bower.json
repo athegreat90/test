@@ -1,0 +1,21 @@
+{
+  "name": "angular-parse-ext",
+  "version": "1.6.4",
+  "license": "MIT",
+  "main": "./angular-parse-ext.js",
+  "ignore": [],
+  "dependencies": {
+    "angular": "1.6.4"
+  },
+  "homepage": "https://github.com/angular/bower-angular-parse-ext",
+  "_release": "1.6.4",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.6.4",
+    "commit": "85056c2f204f3c30cd10a2619f3f74cabf16d118"
+  },
+  "_source": "https://github.com/angular/bower-angular-parse-ext.git",
+  "_target": "1.6.4",
+  "_originalSource": "angular-parse-ext",
+  "_direct": true
+}

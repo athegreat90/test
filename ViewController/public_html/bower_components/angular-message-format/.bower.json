@@ -1,0 +1,20 @@
+{
+  "name": "angular-message-format",
+  "version": "1.6.4",
+  "main": "./angular-message-format.js",
+  "ignore": [],
+  "dependencies": {
+    "angular": "1.6.4"
+  },
+  "homepage": "https://github.com/angular/bower-angular-message-format",
+  "_release": "1.6.4",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.6.4",
+    "commit": "f0c5cf3f504c1934d175d74f368b71a013ede3e8"
+  },
+  "_source": "https://github.com/angular/bower-angular-message-format.git",
+  "_target": "1.6.4",
+  "_originalSource": "angular-message-format",
+  "_direct": true
+}

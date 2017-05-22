@@ -1,0 +1,12 @@
+@charset "windows-1252";
+
+#loginPanel 
+{
+    text-align: center;
+}
+
+.center {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
